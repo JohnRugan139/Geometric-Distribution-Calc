@@ -1,6 +1,9 @@
 # Geometric-Distribution-Calculator
 Simple GUI Applet for calculating simple and cumulative probabilities, as well as the mean and variance of the geometric distribution. It can also plot the Cumulative Density Function and Probability Mass Function. Useful for finding first success in n number of trials.
 
+[[/Geodist.png]]
+![Alt text](/Geodist.png)
+
 ## Dependencies
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install these modules.
 ```bash
